@@ -66,3 +66,12 @@ Second note: the sun (inside the B part) did not get well from the
 vectorization process.  TODO: update the graphics of the sun.
 
 
+### Graphics
+
+Original graphics of planets and zodiac disk are of unknown attribution.
+
+The updated vectorial sun is from
+[freepik.com](href="https://www.freepik.com/free-vector/hand-drawn-sun-outline-illustration_43582961.htm#query=sun%20svg&position=16&from_view=keyword&track=ais">Freepik)
+
+
+
